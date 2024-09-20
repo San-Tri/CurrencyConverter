@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string-array name="currencies_array">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>GBP</item> <!-- Puedes agregar más monedas según lo desees -->
+    </string-array>
+</resources>
